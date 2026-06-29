@@ -5,7 +5,7 @@
 
 ## 📕 Table of Contents
 - [Business Task](https://github.com/pallavip099/SQL-Customer-Insights/edit/main/README.md#:~:text=%F0%9F%9B%A0%EF%B8%8F-,Business%20Task,-Danny%20wants%20to)
-- [Case Study Questions](https://github.com/pallavip099/SQL-Customer-Insights/edit/main/README.md#:~:text=%E2%9D%93-,Case%20Study%20Questions,-What%20is%20the)
+- [Case Study](https://github.com/pallavip099/SQL-Customer-Insights/edit/main/README.md#:~:text=Case%20Study%20Questions)
 - [Bonus Question](https://github.com/pallavip099/SQL-Customer-Insights/blob/main/README.md#:~:text=%F0%9F%93%83-,Bonus%20Question,-Rank%20All%20The)
 - [My Solution](https://github.com/pallavip099/SQL-Customer-Insights/edit/main/README.md#:~:text=%F0%9F%9A%80-,My%20Solution,-Q1.%20What%20is)
 
